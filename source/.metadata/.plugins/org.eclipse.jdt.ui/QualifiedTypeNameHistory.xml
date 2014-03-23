@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.R"/>
+<fullyQualifiedTypeName name="android.R.layout"/>
+<fullyQualifiedTypeName name="android.content.DialogInterface.OnClickListener"/>
+<fullyQualifiedTypeName name="com.example.day1_layout.R.id"/>
+<fullyQualifiedTypeName name="com.example.day1_layout.Layout"/>
+<fullyQualifiedTypeName name="com.example.day1_layout.LinearLayout"/>
+<fullyQualifiedTypeName name="com.example.day1_layout.RelativeLayout"/>
+<fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
+<fullyQualifiedTypeName name="android.app.Activity"/>
+</qualifiedTypeNameHistroy>

@@ -1,5 +1,8 @@
 ddms.logcat.auotmonitor.level=warn
 ddms.logcat.automonitor.userprompt=true
+devicePanel.Col0=117
+devicePanel.Col1=51
+devicePanel.Col4=76
 eclipse.preferences.version=1
 logcat.view.colsize.Application=147
 logcat.view.colsize.Level=30

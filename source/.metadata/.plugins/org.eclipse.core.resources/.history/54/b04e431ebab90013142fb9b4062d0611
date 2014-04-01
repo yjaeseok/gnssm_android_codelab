@@ -1,0 +1,26 @@
+package com.example.day2_view;
+
+import android.app.Activity;
+import android.os.Bundle;
+
+/**
+ * TODO : 
+ * 	TextView
+ *  EditText
+ *  ImageView
+ *  Button
+ *  ImageButton
+ *  ToggleButton
+ *  RadioButton
+ *  ProgressBar
+ */
+
+public class Day2View extends Activity {
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+
+		setContentView(R.layout.test);
+	}
+}

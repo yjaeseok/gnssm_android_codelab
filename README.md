@@ -6,14 +6,12 @@
   - Android 란?
   - Android Study 어떻게 진행되나요?
   - 여러분이 배우고 싶은 것은 무엇인가요?
-  - 1일차 세미나 시작
+  - 1일차 코드랩 시작
 
 #2. 2014/04/02~03
-  - Android 의 화면 이해
-  - Android Activity Lifecycle
+  - 세미나 #1 리뷰
+  - Android 의 구성요소
   - Android View 의 종류
-  - Java 의 Class 와 Interface
-  - Android Event Handler
   - 2일차 코드랩 시작
 
 

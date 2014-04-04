@@ -14,6 +14,6 @@
   - Android View 의 종류
   - 2일차 코드랩 시작
 
-3. 2014/04/06 - Java 특강 (함영식)
+3. 2014/04/06 - 안드로이드를 위한 Java 특강 (함영식)
 
 This repository is for Android CodeLab of Samsung Software Membership at Gangnam

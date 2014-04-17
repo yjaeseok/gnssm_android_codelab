@@ -33,5 +33,10 @@
   - Wrapper Class (Integer, Double, Boolean, Float 클래스)
   - Java API 활용법
 
-
+5. 2014/04/17 - 안드로이드 세미나 #4 (윤재석, 김기범)
+  - R.java
+  - Android Event Handling의 이해
+  - Android와 Interface
+  - Toast
+  
 This repository is for Android CodeLab of Samsung Software Membership at Gangnam

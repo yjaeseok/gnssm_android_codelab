@@ -1,8 +1,0 @@
-<resources>
-
-    <string name="app_name">Day1-Layout</string>
-    <string name="linearlayout">LinearLayout</string>
-    <string name="relativelayout">RelativeLayout</string>
-    <string name="framelayout">FrameLayout</string>
-	<string name="linearlayout2">LinearLayout2</string>
-</resources>

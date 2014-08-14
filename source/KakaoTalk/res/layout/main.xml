@@ -9,7 +9,16 @@
         android:layout_width="match_parent"
         android:layout_height="0px"
         android:layout_weight="90"
-        android:background="@drawable/layer_btn" />
+        android:background="@drawable/layer_btn" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:paddingLeft="10dp"
+            android:text="@string/hello_world"
+            android:color="#FFFF00" />
+    </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -22,62 +31,74 @@
             android:layout_width="0px"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="@drawable/tabbg_s"
+            android:background="@drawable/tabbgs"
             android:gravity="center" >
 
-            <ImageView
+            <ImageButton
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:src="@drawable/tab_friend_icon_p" />
+                android:src="@drawable/tab_friend_icon"
+                android:background="#00000000" />
         </LinearLayout>
 
         <LinearLayout
             android:layout_width="0px"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="@drawable/tabbg_n"
+            android:background="@drawable/tabbgn"
             android:gravity="center" >
 
-            <ImageView
+            <ImageButton
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:src="@drawable/tab_chatting_icon_n" />
+                android:src="@drawable/tab_chatting_icon" 
+                android:background="#00000000"/>
         </LinearLayout>
 
         <LinearLayout
             android:layout_width="0px"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="@drawable/tabbg_n"
+            android:background="@drawable/tabbgn"
             android:gravity="center" >
 
-            <ImageView
+            <ImageButton
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:src="@drawable/tab_recommend_icon_n" />
+                android:src="@drawable/tab_recommend_icon"
+                android:background="#00000000" />
         </LinearLayout>
 
         <LinearLayout
             android:layout_width="0px"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="@drawable/tabbg_n"
+            android:background="@drawable/tabbgn"
             android:gravity="center" >
 
-            <ImageView
+            <ImageButton
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:src="@drawable/tab_more_icon_n" />
+                android:src="@drawable/tab_more_icon"
+                android:background="#00000000" />
         </LinearLayout>
     </LinearLayout>
 
-    <TextView 
+    <EditText
         android:layout_width="match_parent"
         android:layout_height="0px"
         android:layout_weight="90"
         android:background="#FFFFFF"
-        android:paddingLeft="10dp"
-        android:hint="이름(초성), 전화번호 검색"
         android:drawableLeft="@drawable/thm_general_searchbox_icon"
-        android:gravity="center_vertical"/>
+        android:gravity="center_vertical"
+        android:hint="이름(초성), 전화번호 검색"
+        android:paddingLeft="10dp" />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_weight="980"
+        android:background="#FFFFFF" >
+    </ListView>
+
 </LinearLayout>
